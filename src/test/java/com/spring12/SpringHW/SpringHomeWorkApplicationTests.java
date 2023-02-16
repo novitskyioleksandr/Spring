@@ -1,4 +1,4 @@
-package com.homeWork12.SpringHomeWork;
+package com.spring12.SpringHW;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
