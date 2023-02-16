@@ -1,4 +1,4 @@
-package com.homeWork12.SpringHomeWork;
+package com.spring12.SpringHW;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
